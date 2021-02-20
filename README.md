@@ -1,1 +1,1 @@
-java-queue-demo
+# ActiveMQ
